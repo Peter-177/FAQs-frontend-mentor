@@ -1,9 +1,8 @@
 FAQ Accordion
 🛠️ Built With
+
 React.js (Vite)
-
 Tailwind CSS
-
 React Icons
 
 🔗 Link
